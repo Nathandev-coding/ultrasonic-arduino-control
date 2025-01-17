@@ -2,6 +2,8 @@
 c'est code vous permet de controler et mesurer la distance avec un capteur a ultrason (HC-SR04) connecter a un arduino
 
 # Connexion d'un Capteur Ultrasonique à un Arduino
+## Schéma de Connexion
+https://github.com/Nathandev-coding/ultrasonic-arduino-control/blob/main/ultrason.png
 ## Détails des Connexions
 - **VCC** : Connectez cette broche à la sortie 5V de l'Arduino.
 - **GND** : Connectez cette broche à la masse (GND) de l'Arduino.
